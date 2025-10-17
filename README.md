@@ -8,31 +8,30 @@
 
 ---
 
-<!-- 🚀 SOBRE MIM – só copiar e colar -->
+<!-- 🚀 SOBRE MIM – versão roxo minimalista -->
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=FF0080&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
   </picture>
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👦-Kelven-111?style=flat&logoColor=white&labelColor=00F5FF" />
-  <img src="https://img.shields.io/badge/🎂-15%20anos-111?style=flat&logoColor=white&labelColor=FF0080" />
-  <img src="https://img.shields.io/badge/📍-Ribeirão%20das%20Neves%2FSP-111?style=flat&logoColor=white&labelColor=FFB800" />
-  <img src="https://img.shields.io/badge/💻-Full--Stack-111?style=flat&logoColor=white&labelColor=00C4FF" />
-  <img src="https://img.shields.io/badge/⚡-Performance%20%26%20OSS-111?style=flat&logoColor=white&labelColor=00FF95" />
+  <img src="https://img.shields.io/badge/👦-Kelven-9333EA?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/🎂-15%20anos-9333EA?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/📍-Ribeirão%20das%20Neves%2FSP-9333EA?style=flat&logoColor=white&labelColor=111" />
 </p>
 
-<pre align="center">
-┌─ Stack em foco ─────────────────────┐
-│ TypeScript • Next.js • Node • React │
-│ Git • Optimização • Open Source     │
-└─────────────────────────────────────┘
-</pre>
+<p align="center">
+  <code><img src="https://cdn.simpleicons.org/typescript/9333EA" height="20" alt="ts" /></code>
+  <code><img src="https://cdn.simpleicons.org/nextdotjs/9333EA" height="20" alt="next" /></code>
+  <code><img src="https://cdn.simpleicons.org/nodedotjs/9333EA" height="20" alt="node" /></code>
+  <code><img src="https://cdn.simpleicons.org/react/9333EA" height="20" alt="react" /></code>
+  <code><img src="https://cdn.simpleicons.org/git/9333EA" height="20" alt="git" /></code>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=00F5FF" />
+  <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=9333EA" />
 </p>
 <!-- fim do bloco -->
 ---

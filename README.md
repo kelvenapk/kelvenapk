@@ -8,7 +8,7 @@
 
 ---
 
-<!-- 🚀 SOBRE MIM – versão roxo minimalista -->
+<!-- 🚀 SOBRE MIM – roxo minimalista -->
 <h2 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
@@ -17,9 +17,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👦-Kelven-9333EA?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/🎂-15%20anos-9333EA?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/📍-Ribeirão%20das%20Neves%2FSP-9333EA?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/ -Kelven-9333EA?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/ -15%20anos-9333EA?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/badge/ -Ribeirão%20das%20Neves%2FSP-9333EA?style=flat&logoColor=white&labelColor=111" />
 </p>
 
 <p align="center">
@@ -34,7 +34,6 @@
   <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=9333EA" />
 </p>
 <!-- fim do bloco -->
----
 
 ## 🤝 Onde Eu Contribuo
 

@@ -205,6 +205,10 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 <div align="center">
 
+### 💜 Obrigado pela visita!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
 **Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
 
 © 2025 - Code is Art ⚡
@@ -214,6 +218,8 @@ Estou sempre aberto para colaborar, aprender e crescer!
 [![Discord](https://img.shields.io/badge/🎮_Join%20My%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
 
 ![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=flat-square&label=Visitantes)
+
+</div>
 
 </div>
  🐍 CONTRIBUIÇÕES

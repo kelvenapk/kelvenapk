@@ -205,7 +205,7 @@ Estou sempre aberto para colaborar, aprender e crescer!
 ![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=flat-square&label=Visitantes)
 
 </div>
-## 🐍 CONTRIBUIÇÕES
+ 🐍 CONTRIBUIÇÕES
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />

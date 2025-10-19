@@ -209,7 +209,7 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
+**Made with  by Kelven** | Dev Fullstack | Open Source Creator
 
 © 2025 - Code is Art ⚡
 

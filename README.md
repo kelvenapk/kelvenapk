@@ -155,7 +155,7 @@
 | **Contribuir em 5+ projetos open source** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-80%25-B026FF?style=flat-square) |
 | **Dominar TypeScript e Next.js** | 🟢 Concluído | ![Progress](https://img.shields.io/badge/Progress-100%25-B026FF?style=flat-square) |
 | **Lançar 3 projetos pessoais** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-60%25-B026FF?style=flat-square) 
- | ![Progress](https://img.shields.io/badge/Progress-20%25-B026FF?style=flat-square) |
+| ![Progress](https://img.shields.io/badge/Progress-20%25-B026FF?style=flat-square) |
 | **Inglês técnico avançado** | 🟡 Em andamento | ![Progress](https://img.shields.io/badge/Progress-70%25-B026FF?style=flat-square) |
 
 </div>

@@ -78,7 +78,7 @@
         <p><b>✨ Ferramenta de automação e customização</b></p>
         <p>Automação segura, auditável e transparente que coloca você no controle total</p>
         <br/>
-        <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível - é poesia em PowerShell.</p>
+        <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível .</p>
         <br/>
         <a href="https://github.com/meetrevision/playbook">
           <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=FF0040&label=Stars" alt="Stars">

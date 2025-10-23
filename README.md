@@ -207,7 +207,7 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 ### 💜 Obrigado pela visita!
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+!(https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **Made with  by Kelven** | Dev Fullstack | Open Source Creator
 

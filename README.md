@@ -258,6 +258,14 @@ Estou sempre aberto para colaborar, aprender e crescer!
 **Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
 
 © 2025 - Code is Art ⚡
+## 📈 Contribuições
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
 
 <br/>
 

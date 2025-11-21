@@ -135,7 +135,7 @@
 
 <div align="center">
 
-<a href="https://github.com/kelvenapk/kelvenos">
+<a href="https://kelvenapk.github.io/site-kelven-optimizer/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=kelvenos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
 </a>
 
@@ -191,11 +191,8 @@ Estou sempre aberto para colaborar, aprender e crescer!
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-
-<img width="92%" src="https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6&title=Stars,Commits,Repositories,PullRequest,Issues,Followers" alt="GitHub Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=kelvenapk&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=Stars,Commits,Repositories,PullRequest" alt="GitHub Trophies"/>
 </div>
-
 ---
 
 ## 📈 Análise Detalhada

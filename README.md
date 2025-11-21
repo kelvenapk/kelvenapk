@@ -233,7 +233,7 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 **Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
 
-© 2025 - Code is Art ⚡
+© 2025 - Code is Art 
 ## 📈 Contribuições
 
 <div align="center">

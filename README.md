@@ -153,7 +153,7 @@ Estou sempre aberto para colaborar, aprender e crescer!
 
 [![Email](https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
+[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/vqRrPT8aQx)
 
 </div>
 

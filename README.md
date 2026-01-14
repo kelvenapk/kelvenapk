@@ -23,68 +23,35 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/  -Kelven-FF0000?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/  -15%20anos-FF0000?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/  -Ribeirão%20das%20Neves%2FSP-FF0000?style=flat&logoColor=white&labelColor=111" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </p>
 
-<p align="center">
-  <code><img src="https://cdn.simpleicons.org/typescript/FF0000 " height="20" alt="ts" /></code>
-  <code><img src="https://cdn.simpleicons.org/nextdotjs/FF0000 " height="20" alt="next" /></code>
-  <code><img src="https://cdn.simpleicons.org/nodedotjs/FF0000 " height="20" alt="node" /></code>
-  <code><img src="https://cdn.simpleicons.org/react/FF0000 " height="20" alt="react" /></code>
-  <code><img src="https://cdn.simpleicons.org/git/FF0000 " height="20" alt="git" /></code>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=FF0000 " />
-  <img src="https://img.shields.io/github/followers/kelvenapk?label=Followers&style=flat-square&color=DC143C&logo=github " />
-  <img src="https://img.shields.io/github/stars/kelvenapk?label=Stars&style=flat-square&color=FF0000&logo=github " />
-</p>
-<!-- fim do bloco -->
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg " height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg " height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg " height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg " height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg " height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg " height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg " height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg " height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg " height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg " height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg " height="30" alt="canva logo"  />
+<!-- GIF AUTOMÁTICO EVANGELION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" height="200" alt="Evangelion Rei" />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFtNTVzdmJyZGU0ZmhqeDB2aGFhdGFld2Z4N2x0OTU3eDkwdmFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqhTuhIu2458Y/giphy.gif "  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFtNTVzdmJyZGU0ZmhqeDB2aGFhdGFld2Z4N2x0OTU3eDkwdmFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqhTuhIu2458Y/giphy.gif" />
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge " height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge " height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge " height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge " height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DC143C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/snake.svg " alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -95,7 +62,35 @@
 <br clear="both">
 
 <div align="center">
-  <img height="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtMm05bGVtajBpdW0zZnVydjFiMmh3dDU4OWx1ajNrN2V0aXA5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrIKTWpWpH3zBKMvPM/giphy.gif "  />
+  <img height="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtMm05bGVtajBpdW0zZnVydjFiMmh3dDU4OWx1ajNrN2V0aXA5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrIKTWpWpH3zBKMvPM/giphy.gif" />
 </div>
 
 ###
+
+## 📊 **Estatísticas e Gráficos**
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF)
+
+</div>
+
+###
+
+### 🎯 **Projetos em Destaque**
+
+<div align="center">
+  
+[![Kelven Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=kelven-optimizer&theme=radical&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF)](https://github.com/kelvenapk/kelven-optimizer)
+
+</div>
+
+###
+
+<div align="center">
+  
+![Evangelion GIF](https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif)
+  
+</div>

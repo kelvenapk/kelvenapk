@@ -1,252 +1,67 @@
-# <div align="center">👋 Olá, sou **Kelven**!</div>
+<h2 align="left">👋 Olá, sou Kelven</h2>
+
+###
 
 <div align="center">
-
-![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Enthusiast;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvenapk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvenapk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFtNTVzdmJyZGU0ZmhqeDB2aGFhdGFld2Z4N2x0OTU3eDkwdmFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqhTuhIu2458Y/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Faço alguns projetos aleatórios.</p>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Construindo+o+futuro+com+c%C3%B3digo+%F0%9F%9A%80;Performance+%7C+Privacy+%7C+Open+Source)](https://git.io/typing-svg)
-
+  <img height="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtMm05bGVtajBpdW0zZnVydjFiMmh3dDU4OWx1ajNrN2V0aXA5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrIKTWpWpH3zBKMvPM/giphy.gif"  />
 </div>
 
----
-
-<!-- 🚀 SOBRE MIM – roxo minimalista -->
-<h2 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=420&lines=Ol%C3%A1%2C+sou+Kelven+%F0%9F%91%8B;Dev+Fullstack+%7C+15+years;Performance+%26+Open+Source">
-  </picture>
-</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ -Kelven-9333EA?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/ -15%20anos-9333EA?style=flat&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/ -Ribeirão%20das%20Neves%2FSP-9333EA?style=flat&logoColor=white&labelColor=111" />
-</p>
-
-<p align="center">
-  <code><img src="https://cdn.simpleicons.org/typescript/9333EA" height="20" alt="ts" /></code>
-  <code><img src="https://cdn.simpleicons.org/nextdotjs/9333EA" height="20" alt="next" /></code>
-  <code><img src="https://cdn.simpleicons.org/nodedotjs/9333EA" height="20" alt="node" /></code>
-  <code><img src="https://cdn.simpleicons.org/react/9333EA" height="20" alt="react" /></code>
-  <code><img src="https://cdn.simpleicons.org/git/9333EA" height="20" alt="git" /></code>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kelvenapk&label=VIEWS&style=flat-square&color=9333EA" />
-  <img src="https://img.shields.io/github/followers/kelvenapk?label=Followers&style=flat-square&color=B026FF&logo=github" />
-  <img src="https://img.shields.io/github/stars/kelvenapk?label=Stars&style=flat-square&color=9D4EDD&logo=github" />
-</p>
-<!-- fim do bloco -->
-
----
-
-## 🤝 Onde Eu Contribuo
-
-<div align="center">
-
-### 🔥 Projetos Open Source que Melhoram o Desempenho do Seu Windows
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(0, 150, 255, 0.15); border: 2px solid #0096FF; transition: all 0.3s ease; box-shadow: 0 0 20px rgba(0, 150, 255, 0.1);">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFCZkAM5p5dNMZUMPhFgmJPuf_XV30ysXGo-2pbGt-6oW9Xe-HoneRmVcdaLtv6LLWO0&usqp=CAU" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; object-fit: cover; animation: float 3s ease-in-out infinite;">
-        <br/>
-        <a href="https://github.com/Atlas-OS/Atlas">
-          <img src="https://img.shields.io/badge/Atlas%20OS-🖥️%20Windows%20Optimization-0096FF?style=for-the-badge&logoColor=white" alt="Atlas OS">
-        </a>
-        <br/><br/>
-        <p><b>✨ Modificação leve e transparente do Windows</b></p>
-        <p>Otimiza performance extrema, máxima privacidade e usabilidade sem comprometer funcionalidades essenciais</p>
-        <br/>
-        <p><strong>💡 Por que contribuo:</strong> Código transparente que respeita o usuário, maximiza performance e coloca controle nas mãos de quem usa.</p>
-        <br/>
-        <a href="https://github.com/Atlas-OS/Atlas">
-          <img src="https://img.shields.io/github/stars/Atlas-OS/Atlas?style=flat-square&color=0096FF&label=Stars" alt="Stars">
-          <img src="https://img.shields.io/github/forks/Atlas-OS/Atlas?style=flat-square&color=0096FF&label=Forks" alt="Forks">
-        </a>
-        <br/><br/>
-        🔗 <a href="https://github.com/Atlas-OS/Atlas" style="color: #0096FF; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <div style="border-radius: 15px; padding: 20px; background: rgba(255, 0, 64, 0.15); border: 2px solid #FF0040; transition: all 0.3s ease; box-shadow: 0 0 20px rgba(255, 0, 64, 0.1);">
-        <img src="https://revi.cc/logo.svg" width="60" height="60" style="border-radius: 10px; margin-bottom: 10px; animation: pulse 2s ease-in-out infinite;">
-        <br/>
-        <a href="https://github.com/meetrevision/playbook">
-          <img src="https://img.shields.io/badge/Revision%20Playbook-⚙️%20Windows%20Automation-FF0040?style=for-the-badge&logoColor=white" alt="Revision Playbook">
-        </a>
-        <br/><br/>
-        <p><b>✨ Ferramenta de automação e customização</b></p>
-        <p>Automação segura, auditável e transparente que coloca você no controle total</p>
-        <br/>
-        <p><strong>💡 Por que contribuo:</strong> Cada script é auditável, cada mudança é visível - é poesia em PowerShell.</p>
-        <br/>
-        <a href="https://github.com/meetrevision/playbook">
-          <img src="https://img.shields.io/github/stars/meetrevision/playbook?style=flat-square&color=FF0040&label=Stars" alt="Stars">
-          <img src="https://img.shields.io/github/forks/meetrevision/playbook?style=flat-square&color=FF0040&label=Forks" alt="Forks">
-        </a>
-        <br/><br/>
-        🔗 <a href="https://github.com/meetrevision/playbook" style="color: #FF0040; text-decoration: none; font-weight: bold;">→ Explorar Projeto</a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎯 Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-
----
-
-## 💻 Projetos em Destaque
-
-<div align="center">
-
-<a href="https://kelvenapk.github.io/site-kelven-optimizer/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelvenapk&repo=kelvenos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-
-Estou sempre aberto para colaborar, aprender e crescer!
-
-<br/>
-
-[![Email](https://img.shields.io/badge/💌_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvenapk)
-[![Discord](https://img.shields.io/badge/🎮_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/vqRrPT8aQx)
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<!-- Stats Cards com tema roxo customizado -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=B026FF&text_color=FFFFFF&ring_color=9D4EDD&border_radius=10&rank_icon=percentile" alt="GitHub Stats" />
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvenapk&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=B026FF&fire=9D4EDD&currStreakLabel=FFFFFF&sideLabels=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<!-- Languages e Activity Graph -->
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_radius=10&langs_count=6&hide=html,css" alt="Top Languages" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kelvenapk&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Activity Graph Full Width com visual aprimorado -->
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=kelvenapk&custom_title=📈%20Contribuições%20nos%20Últimos%2012%20Meses&bg_color=0D1117&color=9D4EDD&line=B026FF&point=FFFFFF&area=true&hide_border=true&area_color=9D4EDD&height=300" alt="Contribution Graph" />
-
-</div>
-
----
-
-
-## 📈 Análise Detalhada
-
-<div align="center">
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvenapk&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
-<div align="center">
-
-<!-- Cards de commits e linguagens -->
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvenapk&theme=tokyonight" alt="Repos Per Language" />
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvenapk&theme=tokyonight" alt="Most Commit Language" />
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelvenapk&theme=tokyonight" alt="Stats Card" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Se gostou, deixe uma estrela nos meus projetos!
-
-</div>
-
-<div align="center">
-
-![Philosophy](https://img.shields.io/badge/✨%20Código%20é%20poesia-Cada%20linha%20conta%20uma%20história-B026FF?style=flat-square)
-![Performance](https://img.shields.io/badge/🔥%20Performance-Não%20é%20um%20luxo-B026FF?style=flat-square)
-![Quality](https://img.shields.io/badge/⭐%20Qualidade%20%3E%20Quantidade-Sempre-B026FF?style=flat-square)
-![OpenSource](https://img.shields.io/badge/🚀%20Open%20Source-É%20o%20futuro-B026FF?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Obrigado pela visita!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-**Made with 💜 by Kelven** | Dev Fullstack | Open Source Creator
-
-© 2025 - Code is Art 
-## 📈 Contribuições
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
-
-<br/>
-
-[![Discord](https://img.shields.io/badge/🎮_Join%20My%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/q3fHT6nMB4)
-
-![Visitors](https://komarev.com/ghpvc/?username=kelvenapk&color=B026FF&style=flat-square&label=Visitantes)
-
-</div>
+###

@@ -90,6 +90,12 @@
 
 <p align="left">Faço alguns projetos aleatórios.</p>
 
----
+###
 
-##
+<br clear="both">
+
+<div align="center">
+  <img height="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtMm05bGVtajBpdW0zZnVydjFiMmh3dDU4OWx1ajNrN2V0aXA5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrIKTWpWpH3zBKMvPM/giphy.gif"  />
+</div>
+
+###

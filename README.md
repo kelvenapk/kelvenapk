@@ -5,8 +5,6 @@
 ![Profile Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Dev+Fullstack+%7C+Open+Source+Enthusiast;TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Performance+%26+Privacy+Advocate;Sempre+aprendendo%2C+sempre+compartilhando+%F0%9F%92%9C)
 
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60" alt="electron logo"  />
   <img width="12" />
@@ -45,4 +43,21 @@
   </a>
 </div>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kelvenapk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kelvenapk/kelvenapk/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ###

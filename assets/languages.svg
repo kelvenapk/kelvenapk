@@ -1,0 +1,47 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="550" height="250" viewBox="0 0 550 250">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="550" height="250" rx="14" fill="#0d1117" filter="url(#shadow)"/>
+  <text x="20" y="35" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="bold" fill="#e6edf3">Most Used Languages</text>
+  <text x="20" y="52" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#8b949e">23 repos · user + KT-TWEAKS org · 10.1 MB total</text>
+
+  <g transform="translate(20, 70)">    <path d="M85,85 L85,10 A75,75 0 1,1 10.02,86.88 Z" fill="#178600" opacity="0.95"/>
+    <path d="M85,85 L10.02,86.88 A75,75 0 0,1 18.17,50.95 Z" fill="#e34c26" opacity="0.95"/>
+    <path d="M85,85 L18.17,50.95 A75,75 0 0,1 34,30.01 Z" fill="#f1e05a" opacity="0.95"/>
+    <path d="M85,85 L34,30.01 A75,75 0 0,1 52.64,17.34 Z" fill="#3178c6" opacity="0.95"/>
+    <path d="M85,85 L52.64,17.34 A75,75 0 0,1 71.87,11.16 Z" fill="#dea584" opacity="0.95"/>
+    <path d="M85,85 L71.87,11.16 A75,75 0 0,1 80.76,10.12 Z" fill="#563d7c" opacity="0.95"/>
+    <path d="M85,85 L80.76,10.12 A75,75 0 0,1 83.59,10.01 Z" fill="#f34b7d" opacity="0.95"/>
+    <path d="M85,85 L83.59,10.01 A75,75 0 0,1 85,10 Z" fill="#6e7681" opacity="0.95"/>
+    <circle cx="85" cy="85" r="45" fill="#0d1117"/>
+    <text x="85" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="bold" fill="#e6edf3">23</text>
+    <text x="85" y="96" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#8b949e">repos</text>
+    <rect x="200" y="10" width="12" height="12" rx="2" fill="#178600"/>
+    <text x="218" y="20" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">C#</text>
+    <text x="310" y="20" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">74.6%</text>
+    <rect x="200" y="32" width="12" height="12" rx="2" fill="#e34c26"/>
+    <text x="218" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">HTML</text>
+    <text x="310" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">7.9%</text>
+    <rect x="200" y="54" width="12" height="12" rx="2" fill="#f1e05a"/>
+    <text x="218" y="64" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">JavaScript</text>
+    <text x="310" y="64" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">5.6%</text>
+    <rect x="200" y="76" width="12" height="12" rx="2" fill="#3178c6"/>
+    <text x="218" y="86" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">TypeScript</text>
+    <text x="310" y="86" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">4.8%</text>
+    <rect x="200" y="98" width="12" height="12" rx="2" fill="#dea584"/>
+    <text x="218" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">Rust</text>
+    <text x="310" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">4.3%</text>
+    <rect x="200" y="120" width="12" height="12" rx="2" fill="#563d7c"/>
+    <text x="218" y="130" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">CSS</text>
+    <text x="310" y="130" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">1.9%</text>
+    <rect x="200" y="142" width="12" height="12" rx="2" fill="#f34b7d"/>
+    <text x="218" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">C++</text>
+    <text x="310" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">0.6%</text>
+    <rect x="200" y="164" width="12" height="12" rx="2" fill="#6e7681"/>
+    <text x="218" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#e6edf3">Other</text>
+    <text x="310" y="174" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8b949e">0.3%</text>
+  </g>
+</svg>

@@ -62,8 +62,8 @@ Estudante de **Ciência da Computação** · 🇧🇷 Brasil
 
 <!-- ===================== STATS ===================== -->
 
-<img src="assets/stats.svg" height="195" alt="GitHub Stats" />
-<img src="assets/languages.svg" height="250" alt="Languages" />
+
+
 
 <br>
 
